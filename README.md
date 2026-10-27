@@ -1,8 +1,8 @@
 # Nhu Dinh Tien
 
-**Final-Year Computer Science Student at UIT, VNU-HCM | Applied AI · Computer Vision · LLM/RAG**
+**AI Engineer & Researcher | Final-Year Computer Science Student at UIT, VNU-HCM**
 
-Computer Science student at **UIT, VNU-HCM** with first-author research and hands-on experience in computer vision, multimodal retrieval, and LLM-assisted systems. Interested in building practical, reliable AI applications.
+Computer Science student at **UIT, VNU-HCM** with first-author research and hands-on experience in computer vision, multimodal retrieval, and LLM-assisted systems. Seeking entry-level opportunities in AI engineering and research, combining practical application development with model experimentation.
 
 📍 Ho Chi Minh City, Vietnam · [LinkedIn](https://www.linkedin.com/in/tiennhudinh/) · [Email](mailto:tiennhudinh4w@gmail.com)
 
@@ -14,9 +14,9 @@ Combined Swin image features, metadata encoding, and BSDA; reported **94.73% acc
 
 ## 🚀 Featured Projects
 
-- **[Multimodal Video Retrieval](https://github.com/nhudinhtien-4w/Video-Retrieval-with-Images-and-Texts-Using-CLIP)** — Led a 5-member team building video search with **CLIP/OpenCLIP, FAISS, Elasticsearch, and Gemini API**, supporting text/image queries and timestamp retrieval.
-- **[Vietnamese Traffic Sign Detection](https://github.com/nhudinhtien-4w/Vietnamese-Traffic-Signs-Detection)** — Trained a **Faster R-CNN** detector for 52 sign categories and built a **Flask** demo; reported **92.6% precision / 94.6% recall** on 639 test images.
-- **[Food Recipe Recommendation System](https://github.com/nhudinhtien-4w/Food-Recipe-Recommendation-System-FRRS-)** — Developed recommendation processing logic using **TF-IDF, Sentence-BERT, and similarity ranking** for conversational recipe search.
+- **[Multimodal Video Retrieval](https://github.com/nhudinhtien-4w/Video-Retrieval-with-Images-and-Texts-Using-CLIP)** — Designed offline indexing and online search with **CLIP/OpenCLIP, FAISS, Elasticsearch and FastAPI**; implemented Vietnamese query processing, LLM refinement, context-coverage ranking and timestamp submission. *Oct–Dec 2025.*
+- **[Vietnamese Traffic Sign Detection](https://github.com/nhudinhtien-4w/Vietnamese-Traffic-Signs-Detection)** — Trained a **Faster R-CNN** detector for 52 sign categories and built a **Flask** demo; reported **92.6% precision / 94.6% recall** on 639 test images at IoU ≥ 0.50 and confidence ≥ 0.30. *Jun–Aug 2025.*
+- **[Food Recipe Recommendation System](https://github.com/nhudinhtien-4w/Food-Recipe-Recommendation-System-FRRS-)** — Implemented **TF-IDF/Sentence-BERT hybrid ranking** and LLM chatbot logic for constraint extraction and explained recommendations in a **FastAPI** application. *Oct–Dec 2025.*
 
 ### More Projects
 
@@ -28,13 +28,11 @@ Combined Swin image features, metadata encoding, and BSDA; reported **94.73% acc
 
 **Used in projects:** Python, C++, PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, CLIP/OpenCLIP, Sentence-BERT, FAISS, Elasticsearch, Flask, FastAPI, Gemini API, HTML/CSS, JavaScript.
 
-**Currently strengthening:** Git, Linux, SQL/SQLite, FastAPI, pytest, Docker, CI/CD, Qdrant, and RAG evaluation.
-
 ## 🎓 Education & Experience
 
 - **B.Sc. Computer Science**, UIT, VNU-HCM — GPA **3.50/4.00**, expected Nov 2026.
-- **IT Consultant**, VNPT Thu Duc — Mar 2026–Present; technical support for digital services.
-- **English:** IELTS 6.5.
+- **Account Manager — Sales & Technical Support**, VNPT Thu Duc — Mar 2026–Present; post-sales technical assistance and software usage guidance, alongside sales of VNPT digital services.
+- **English:** IELTS 6.5 (valid until Dec 2026).
 
 ## 📫 Connect
 
