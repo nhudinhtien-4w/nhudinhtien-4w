@@ -69,15 +69,6 @@ I enjoy turning AI ideas into working systems—from preparing data and evaluati
 
 > I distinguish tools already used in projects from engineering skills I am actively developing. My goal is to explain, debug, test, and deploy what I build—not simply list technologies.
 
-## 📈 What I'm Building Next
-
-I'm following a **24-week Applied AI & Computer Vision engineering roadmap** (currently in **Week 1**), focused on stronger programming foundations, testing, deployment, and model evaluation. Planned capstone deliverables:
-
-- **VisionServe (planned):** Turn my traffic-sign model into a reproducible computer-vision inference service with FastAPI, model validation, automated tests, Docker, CI, and a performance report.
-- **SupportDoc (planned):** Build a document question-answering system with retrieval, a real LLM, source citations, access control, evaluation, SQLite, and Qdrant.
-
-*These are learning goals and planned projects, not completed releases.*
-
 ## 💼 Experience & Education
 
 **IT Consultant · VNPT Thu Duc** — *Mar 2026–Present*  
