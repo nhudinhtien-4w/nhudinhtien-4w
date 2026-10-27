@@ -1,6 +1,6 @@
 # Nhu Dinh Tien
 
-**Final-Year Computer Science Student at UIT | Applied AI · Computer Vision · LLM/RAG**
+**Final-Year Computer Science Student at UIT, VNU-HCM | Applied AI · Computer Vision · LLM/RAG**
 
 Computer Science student at **UIT, VNU-HCM** with first-author research and hands-on experience in computer vision, multimodal retrieval, and LLM-assisted systems. Interested in building practical, reliable AI applications.
 
