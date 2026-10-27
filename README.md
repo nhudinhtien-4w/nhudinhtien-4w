@@ -1,4 +1,4 @@
-# Hi, I'm Nhu Dinh Tien 👋
+# Nhu Dinh Tien
 
 **Aspiring AI Engineer | Applied AI · Computer Vision · LLM/RAG**
 
