@@ -30,10 +30,6 @@ Combined Swin image features, metadata encoding, and BSDA; reported **94.73% acc
 
 **Currently strengthening:** Git, Linux, SQL/SQLite, FastAPI, pytest, Docker, CI/CD, Qdrant, and RAG evaluation.
 
-## 📚 Currently Learning
-
-Following a **24-week AI Engineering roadmap**. Planned projects: **VisionServe** (tested, containerized CV inference API) and **SupportDoc** (document Q&A with RAG, citations, and access control). *Both are planned, not yet completed.*
-
 ## 🎓 Education & Experience
 
 - **B.Sc. Computer Science**, UIT, VNU-HCM — GPA **3.50/4.00**, expected Nov 2026.
